@@ -1,6 +1,6 @@
 {
   "name": "小神專區",
   "tagline": "小神【mfss】專區",
-  "body": "# 小神【mfss】專區\r\n## 簡稱 MFSS\r\n### 翻成 創客趣-小神\r\n\r\n用 `<link rel=\"shortcut icon\" href=\"http://example.com/myicon.ico\" />` 來加頭像\r\n[Contact](Contact.html)",
+  "body": "# 小神【mfss】專區\r\n## 簡稱 MFSS\r\n### 翻成 創客趣-小神\r\n\r\n用 `<link rel=\"shortcut icon\" href=\"http://example.com/myicon.ico\" />` 來加頭像\r\n\r\n[Contact](Contact.html)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
