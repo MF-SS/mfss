@@ -4,8 +4,8 @@
 
 用 `<link rel="shortcut icon" href="http://example.com/myicon.ico" />` 來加頭像
 
-[Contact](Contact.html)
+[Contact](contact)
 
 [XMind Project](http://www.xmind.net/m/tiY7)
 
-[XMind Project Page (Inside)](mind.html)
+[XMind Project Page (Inside)](mind)
