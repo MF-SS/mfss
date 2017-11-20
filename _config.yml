@@ -1,0 +1,8 @@
+title: 小神專區
+description: 小神【mfss】專區
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
