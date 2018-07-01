@@ -27,6 +27,18 @@
 
 ---
 
-#同步推出的計畫
+# 同步推出的計畫
+
+* 寫作偏好調查（公開調查結果）
 
 # 過去指向的網站
+
+* [Andrewyg.net](http://andrewyg.net) 最原始的個人網站
+* [Munucial.com](http://munucial.com) 之前列出我的計劃的網站
+* [創作者的小窩 CCSource.org](http://ccsource.org) （教學）資料封存平台
+* ~~[WriterWrite.com](https://writerwrite.com) 未來有可能會指向那吧~~
+* Andrew.at.tw 未來將指向的網站（WriterWrite掰掰）
+
+---
+
+最後更新：2018/7/1 6:08 PM
